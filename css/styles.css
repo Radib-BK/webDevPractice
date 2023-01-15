@@ -1,0 +1,21 @@
+body{
+    background-color:#F8F4EA;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dashed;
+    border-color: midnightblue;
+    border-width: 3px;
+    width: 100%;
+}
+
+h3{
+    color: #1A4D2E;
+}
+
+label {
+    display: inline-block;
+    width:120px;
+    text-align: left;
+}
