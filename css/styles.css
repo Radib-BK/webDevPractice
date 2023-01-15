@@ -19,3 +19,24 @@ label {
     width:120px;
     text-align: left;
 }
+
+#heading {
+    color: darkred;
+    font-size: 40px;
+    text-align: center;
+}
+
+.pfp {
+    width:33%;
+    float:left;
+    text-align: center;
+    padding: 0px 50px;
+    box-sizing: border-box;
+}
+
+.pfp img {
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border-radius: 100%;
+}
